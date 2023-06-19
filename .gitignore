@@ -1,17 +1,10 @@
-target/*
-bin/*
-build/*
-.gradle/*
-.settings/*
-.classpath
+*.class
+target/
+bin/
 .project
-.factorypath
-.attach_pid*
-.idea
-*.iml
-/target
-.sts4-cache/
-.vscode
-_site/
-*.css
-!petclinic.css
+.classpath
+.settings/
+
+# Package Files #
+*.jar
+hs_err_pid*
