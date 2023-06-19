@@ -10,14 +10,22 @@ https://plugins.jenkins.io/skip-certificate-check/releases/
 
 ## Instalar plugins: 
 
-Docker Pipeline
-Pipeline Utility Steps
-Git
-Git client
-GitHub API
-GitHub
-GitHub Branch Source
-Git Server
+- Docker Pipeline
+- Pipeline Utility Steps
+- Git
+- Git client
+- GitHub API
+- GitHub
+- GitHub Branch Source
+- Git Server
+- Pipeline: Job
+- Pipeline: Groovy
+- Pipeline: Basic Steps
+- Pipeline: Stage Steps
+- Pipeline: Declarative
+- Mailer
+- Email Extension
+
 
 ## Crear pipeline vinculada a repo:
 https://github.com/delreina/devops_pipelines
