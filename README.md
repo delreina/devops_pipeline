@@ -6,6 +6,7 @@
 Con este comando se puede en principio instalar la distribución de Ubuntu para wsl de forma sencilla:
 
         wsl --install -d Ubuntu
+
 - Docker (Docker Desktop es el más fácil desde la página oficial del proveedor) 
 
 ## Levantar un contenedor con jenkins instalado
@@ -87,3 +88,10 @@ Para montar la imagen ejecutaremos. En este caso no haremos uso de la persistenc
         docker run -p 8081:8080 -d tomcat-custom
 
 Ahora podremos acceder a nuestra instancia de tomcat accediendo a la url: http://localhost:8081, o modificándola dependiendo del puerto expuesto.
+
+
+# PARA PROFUNDIZAR
+
+Aquí se encuentra un repositorio con un taller más avanzado para curios@s, en el que se hacen uso de diferentes herramientas:
+
+https://github.com/deors/workshop-pipelines
