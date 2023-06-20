@@ -3,6 +3,7 @@
 ## PRE-REQUISITOS
 
 WSL (Windows Subsystem for Linux)
+        wsl --install -d Ubuntu
 Docker (Docker Desktop es el más fácil)
 
 ## Levantar un contenedor con jenkins instalado
